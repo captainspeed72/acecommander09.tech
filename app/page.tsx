@@ -50,7 +50,7 @@ export default function Home() {
           >
             <Terminal className="h-6 w-6 text-green-500" />
             <span className="font-mono text-xl font-bold">
-              AceCommander<span className="text-green-500">09</span>
+              captain_speed72
             </span>
           </motion.div>
           <motion.div
@@ -107,7 +107,7 @@ export default function Home() {
                       transition={{ duration: 0.5, delay: 0.2 }}
                       className="text-4xl md:text-6xl font-bold mb-4"
                     >
-                      Hi, I'm <span className="text-green-500">AceCommander09</span>
+                      Hi, I'm <span className="text-green-500">captain_speed72</span>
                     </motion.h1>
                     <motion.div
                       initial={{ opacity: 0, y: 20 }}
@@ -329,7 +329,7 @@ export default function Home() {
                 link: "https://modrinth.com/modpack/subnautica-in-mc",
               },
               {
-                title: "AceCommander09.tech",
+                title: "captain_speed72",
                 description:
                   "This website your on right now!.",
                 tech: ["TypeScript", "React", "Javascript", "Node.js"],
@@ -429,7 +429,7 @@ export default function Home() {
                     <Box className="h-6 w-6 text-green-500" />
                   </div>
                   <h3 className="text-lg font-bold mb-2">Makerworld</h3>
-                  <p className="text-gray-400 text-sm">@AceCommander492</p>
+                  <p className="text-gray-400 text-sm">@captain_speed72</p>
                 </CardContent>
               </Card>
             </motion.div>
@@ -450,7 +450,7 @@ export default function Home() {
                     <Boxes className="h-6 w-6 text-green-500" />
                   </div>
                   <h3 className="text-lg font-bold mb-2">Modrinth</h3>
-                  <p className="text-gray-400 text-sm">@acecommander492</p>
+                  <p className="text-gray-400 text-sm">@captain_speed72</p>
                 </CardContent>
               </Card>
             </motion.div>
@@ -468,7 +468,7 @@ export default function Home() {
                     <MessageCircle className="h-6 w-6 text-green-500" />
                   </div>
                   <h3 className="text-lg font-bold mb-2">Discord</h3>
-                  <p className="text-gray-400 text-sm">@acecommander09</p>
+                  <p className="text-gray-400 text-sm">@captain_speed72</p>
                 </CardContent>
               </Card>
             </motion.div>
@@ -483,11 +483,11 @@ export default function Home() {
             <div className="flex items-center gap-2 mb-4 md:mb-0">
               <Terminal className="h-5 w-5 text-green-500" />
               <span className="font-mono text-lg font-bold">
-                AceCommander<span className="text-green-500">09</span>
+                captain_speed72
               </span>
             </div>
             <div className="text-gray-400 text-sm">
-              &copy; {new Date().getFullYear()} AceCommander09. All rights reserved.
+              &copy; {new Date().getFullYear()} captain_speed72. All rights reserved.
             </div>
             <div className="flex gap-4 mt-4 md:mt-0">
               <Button
