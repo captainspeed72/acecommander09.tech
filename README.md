@@ -30,7 +30,7 @@ acecommander09.tech/
 
 ```bash
 # Clone the repository
-git clone https://github.com/AceCommander9/acecommander09.tech.git
+git clone https://github.com/captainspeed72/acecommander09.tech.git
 
 # Navigate to the project directory
 cd acecommander09.tech
@@ -74,9 +74,9 @@ This project is licensed under the terms specified in the LICENSE file.
 
 ## 👨‍💻 Author
 
-**AceCommander9**
+**captainspeed72**
 
-- GitHub: [@AceCommander9](https://github.com/AceCommander9)
+- GitHub: [@captainspeed72](https://github.com/captainspeed72)
 - Website: [acecommander09.tech](https://www.acecommander09.tech)
 
 ---
