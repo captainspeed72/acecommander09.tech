@@ -186,7 +186,7 @@ export default function Home() {
                 <Button
                   variant="outline"
                   className="border-green-500 text-green-500 hover:bg-green-500/10"
-                  onClick={() => window.open("https://github.com/AceCommander9", "_blank")}
+                  onClick={() => window.open("https://github.com/captainspeed72", "_blank")}
                 >
                   <Github className="mr-2 h-4 w-4" /> GitHub
                 </Button>
@@ -254,6 +254,16 @@ export default function Home() {
                 skills: ["GitHub", "VS Code", "Vercel", "IntelliJ"],
               },
               {
+                title: "Technical Skills",
+                icon: <Code className="h-10 w-10 text-green-500" />,
+                skills: ["Java", "React", "TypeScript", "3D Modeling"],
+              },
+              {
+                title: "Linux Distros",
+                icon: <Terminal className="h-10 w-10 text-green-500" />,
+                skills: ["CachyOS (main gaming PC)", "Arch", "Fedora", "Debian"],
+              },
+              {
                 title: "Other",
                 icon: <Code className="h-10 w-10 text-green-500" />,
                 skills: ["IntelliJ", "UI Design", "n8n", "Nextcloud"],
@@ -309,7 +319,7 @@ export default function Home() {
                 tech: ["Modrinth", "Neoforge", "Datapack", "Fabric"],
                 image: "/projects/discoveria.jpg",
                 link: "https://modrinth.com/datapack/discoveria",
-                githubUrl: "https://github.com/AceCommander9/Discoveria",
+                githubUrl: "https://github.com/captainspeed72",
               },
               {
                 title: "Craftable Armour Trims",
@@ -318,7 +328,7 @@ export default function Home() {
                 tech: ["Modrinth", "Neoforge", "Fabric", "Datapack"],
                 image: "/projects/craftable-armour-trims.jpg",
                 link: "https://modrinth.com/datapack/craftable-armour-trims",
-                githubUrl: "https://github.com/AceCommander9/Craftable-Armour-Trims",
+                githubUrl: "https://github.com/captainspeed72",
               },
               {
                 title: "Subnautica in Minecraft",
@@ -335,7 +345,7 @@ export default function Home() {
                 tech: ["TypeScript", "React", "Javascript", "Node.js"],
                 image: "/projects/acecommander09-tech.jpg",
                 link: "https://www.acecommander09.tech/",
-                githubUrl: "https://github.com/AceCommander9/acecommander09.tech",
+                githubUrl: "https://github.com/captainspeed72",
               },
               {
                 title: "Call of Duty in Minecraft",
@@ -494,7 +504,7 @@ export default function Home() {
                 variant="ghost"
                 size="icon"
                 className="text-gray-400 hover:text-green-500"
-                onClick={() => window.open("https://github.com/AceCommander9", "_blank")}
+                onClick={() => window.open("https://github.com/captainspeed72", "_blank")}
               >
                 <Github className="h-5 w-5" />
               </Button>
